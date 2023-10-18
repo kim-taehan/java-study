@@ -24,7 +24,7 @@ public class ThreadTest1 {
 ```
 
 
-#### 쓰레드 중수 (리턴 값 처리 가능)
+#### 쓰레드 중수 (리턴 값 처리 가능, 쓰레드 풀 사용가능)
 ```java
 public class ThreadTest2 {
 
@@ -44,7 +44,7 @@ public class ThreadTest2 {
 ```
 
 
-#### 쓰레드 고수 (기다리지 않은 비동기 처리 가능)
+#### 쓰레드 고수 (기다리지 않은 비동기 처리 가능, )
 ```java
 public class ThreadTest3 {
     @Test
